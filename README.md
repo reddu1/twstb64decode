@@ -5,6 +5,8 @@ Throw all the .txt files containing the Base64 codes in "input" folder and then 
 
 ```py main.py```
 
+The images will be in "output" folder.
+
 # Notes
 Make sure there's no other file inside input folder aside from .txt files.
 
