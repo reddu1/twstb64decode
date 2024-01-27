@@ -7,4 +7,5 @@ Throw all the .txt files containing the Base64 codes in "input" folder and then 
 
 # Notes
 Make sure there's no other file inside input folder aside from .txt files.
+
 This code assumes the result image is PNG.
